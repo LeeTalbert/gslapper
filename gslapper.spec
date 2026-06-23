@@ -18,7 +18,6 @@ Requires:	gstreamer1.0-plugins-bad
 Requires:	gstreamer1.0-plugins-base
 Requires:	gstreamer1.0-plugins-good
 Requires:	gstreamer1.0-plugins-ugly
-Requires:	(hyprland or niri or sway)
 
 %description
 gSlapper is a Wayland wallpaper utility that plays both videos and 
